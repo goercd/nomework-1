@@ -1,0 +1,7 @@
+﻿new Object {
+var n = "1.5";
+var str = "строка";
+var checked = true;
+var user = { name: "Лиза" };
+var age = null;
+}
